@@ -1,0 +1,170 @@
+.Body{
+    background-color:black;
+    height: 100%;
+    width: 100%;
+    font-family: cursive;
+}
+.About{
+    background-image: url('https://www.lamborghinihouston.com/static/dealer-12175/images/hura_tecnica_og1.webp');
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    color: rgb(146, 143, 143);
+}
+.ap1{
+    margin: 120px;
+    font-family:cursive;
+}
+.contact{
+    background-color:black;
+     color: gold;
+}
+.map{
+    margin-left: 20px;
+    margin-top: 20px;
+    width: 400px;
+    height: 400px;  
+}
+.contactcon{
+    margin-left: 550px;
+    margin-top: 20px;
+    width: 400px;
+    height: 550px;
+    background-color: white;
+}
+.imc{
+    width: 750px;
+    height: 550px;
+    margin-left: 120px;
+    margin-top: 10px;
+    background-size: cover;
+
+}
+.mo1{
+    padding-top: 120px;
+    width: 420px;
+    margin-left: 150px;
+}
+.models{
+    background-color: white;
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+#modelVideo{
+    height: 50%;
+}
+.car{
+    width: 100%;
+}
+#Models{
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+}
+.mv1{
+    height: 80%;
+    background-size: cover;
+}
+
+.container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+.con{
+    margin-top: 500px ;
+}
+h1, h3 {
+    color: #333;
+}
+
+form .form-control {
+    margin-bottom: 15px;
+    padding: 10px;
+}
+
+ul {
+    padding-left: 0;
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+ul a {
+    color: #0056b3;
+    text-decoration: none;
+}
+
+ul a:hover {
+    text-decoration: underline;
+}
+
+.map-section {
+    background-color: #f4f4f4;
+    padding: 30px 0;
+    text-align: center;
+}
+#ma{
+    background-color: rgba(118, 116, 116, 0.718);
+}
+.map-section iframe {
+    width: 100%;
+    max-width: 800px;
+    height: 400px;
+    border: none;
+}
+#madd{
+    background-color: rgba(118, 116, 116, 0.718); ;
+}
+
+#lamborghini-footer {
+    background-color: #333;
+    color: white;
+    padding: 30px 0;
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+#lamborghini-footer .container {
+    max-width: 1100px;
+    margin: 0 auto;
+}
+
+#lamborghini-footer p {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+#lamborghini-footer ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+#lamborghini-footer ul li {
+    display: inline;
+    margin-right: 20px;
+}
+
+#lamborghini-footer ul li a {
+    color: #ffdf00;
+    text-decoration: none;
+    font-size: 18px;
+}
+
+#lamborghini-footer ul li a:hover {
+    text-decoration: underline;
+}
+#contact{
+    background-color: white;
+    color: gold;
+}
+.foot{
+    background-color: white;
+    color:black;
+}
+.con{
+    background-color: black;
+}
